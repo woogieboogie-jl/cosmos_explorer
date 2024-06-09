@@ -15,7 +15,7 @@
 An explorer dashboard of all cosmos-sdk based blockchains run by woogieboogie, forked from Ping.Pub explorer
 
 ## What sets the Dashboard apart from other explorers?
-**The Dashboard was Forked from Ping Dashboard** \n
+**The Dashboard was Forked from Ping Dashboard**<br>
 The dashboard stands out by providing a real-time exploration of blockchain data without relying on caching or pre-processing. It exclusively fetches data from the Cosmos full node via LCD/RPC endpoints, ensuring a truly authentic experience. This approach is referred to as the "Light Explorer."
 
 

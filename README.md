@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ping Wallet](./public/logo.png)
+<img src="./public/logo.png" alt="alt text" width="200" />
 
 <h1>Node Stats Dashboard from woogieboogie</h1>
 
